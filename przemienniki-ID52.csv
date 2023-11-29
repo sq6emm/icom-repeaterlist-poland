@@ -1,4 +1,4 @@
-Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency;Dup;Offset;Mode;TONE;Repeater Tone;RPT1USE;Position;Latitude;Longitude;UTC Offset;
+Group No;Group Name;Name;Sub Name;Repeater Call Sign;Gateway Call Sign;Frequency;Dup;Offset;Mode;TONE;Repeater Tone;RPT1USE;Position;Latitude;Longitude;UTC Offset
 48;Poland;Wolin;JO73HU;SR0WW;;438,825000;DUP-;7,600000;FM;TONE;82,5Hz;Yes;Approximate;53,840000;14,610000;+1:00;438,82500000
 48;Poland;Czartoryja;JO72FW;SR1CH;;145,787500;DUP-;0,600000;FM;TONE;82,5Hz;Yes;Approximate;;;+1:00;145,78750000
 48;Poland;Kolobrzeg;JO74SE;SR1G;;145,625000;DUP-;0,600000;FM;TONE;88,5Hz;Yes;Approximate;54,170000;15,550000;+1:00;145,62500000
